@@ -43,3 +43,8 @@ Analyzed retail sales data and built interactive dashboards using Microsoft Exce
 - Top-performing salespersons drive a significant portion of revenue
 - Higher discounts do not always guarantee higher sales
 - Category-level analysis highlights high-demand products
+
+## 🔗 LinkedIn Post
+
+This project has been shared on LinkedIn showcasing the dashboards and key insights
+🔗 View the LinkedIn post here: https://www.linkedin.com/posts/YOUR-LINK-HERE
