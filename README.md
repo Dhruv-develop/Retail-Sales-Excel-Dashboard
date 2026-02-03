@@ -47,4 +47,4 @@ Analyzed retail sales data and built interactive dashboards using Microsoft Exce
 ## 🔗 LinkedIn Post
 
 This project has been shared on LinkedIn showcasing the dashboards and key insights
-🔗 View the LinkedIn post here: https://www.linkedin.com/posts/YOUR-LINK-HERE
+ 🔗 View the LinkedIn post here: https://www.linkedin.com/posts/YOUR-LINK-HERE
