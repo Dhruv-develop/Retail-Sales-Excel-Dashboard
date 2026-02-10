@@ -48,3 +48,8 @@ Analyzed retail sales data and built interactive dashboards using Microsoft Exce
 
 This project has been shared on LinkedIn showcasing the dashboards and key insights
  🔗 View the LinkedIn post here: (https://www.linkedin.com/posts/dhruv-rapariya_excel-dataanalytics-dashboard-activity-7424663047014731776-M7nD)
+
+## 👤 Author
+
+Dhruv Rapariya
+Excel | Data Analytics | Dashboard Design | Student Project
